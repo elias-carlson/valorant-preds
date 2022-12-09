@@ -33,3 +33,5 @@ else
     fi
 fi
 rm $FILENAME
+
+python3 ../masking.py
