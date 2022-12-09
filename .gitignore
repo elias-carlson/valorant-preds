@@ -1,8 +1,7 @@
-# frames
+# My stuff
 /data/*/frames/
-
-# mac stuff
-# .DS_Store
+.DS_Store
+# .vscode
 
 ### PYTHON TEMPLATE
 
